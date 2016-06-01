@@ -1,9 +1,9 @@
 ##Summoned Beast Sleeping in the Earth
 
-####Summoner Sorano:
+**Summoner Sorano:**  
 -A Platinum Summoner that can call forth summoned beasts with her skill, and has a strong attack magic that can attack far-away units.
 
-####Introduction:
+**Introduction:**
 ```
 Sorano: "By the way, I forgot to thank you. Thanks for helping me earlier."
 Sorano: "I'm the summoner Sorano. Were you also searching for summoned beasts in that sort of place?"
@@ -17,9 +17,8 @@ Sorano: "In order to become an independent summoner, obtaining a summoned beasts
 Sorano: "So, please! If you can find me a summoned beast, I'll join your party!"
 ```
 
-####20/1 Summoner:
-Beer (40%), Wine (20%)
-######Story:
+**20/1 Summoner:**  
+Beer (40%), Wine (20%)  
 ```
 (beginning)
 Sorano: "Geez, what is this place!? It's so murky, and......"
@@ -34,9 +33,8 @@ Anna: "We help her, and then she speaks to us so rudely. By the way, what were y
 Sorano: "Who cares about that? Bring me out of here at once!"
 ```
 
-####50/1 Path to Den:
+**50/1 Path to Den:**  
 Phyllis (10%), Leo (50%x2), Russel (50%)
-######Story:
 ```
 (beginning)
 Sorano: "Finally, let's begin looking for a summoned beast. Well then, follow my lead!"
@@ -48,19 +46,16 @@ Aegis: "...... Are you listening? Up head has been filled with the monster's mia
 Aegis: "They seem to be laying some kind of trap...... So take heed."
 ```
 
-####50/3 Earth Fountain (Gimmick: No healers):
+**50/3 Earth Fountain (Gimmick: No healers):**  
 Silver Fairy (60%x2), Gold Fairy (30%), Platinum Fairy (20%), Black Fairy (5%)
-######Fairies
-Fairies (30 Stamina):
 ```
+Fairies (30 Stamina):
 Trips: 10
 Silver Fairies: 12
 Gold Fairies: 3
 Platinum Fairies: 2
 Black Fairies. 0.5
 ```
-
-######Story:
 ```
 (beginning)
 Sorano: "What is this place? I have a very bad feeling..."
@@ -69,25 +64,23 @@ Anna: "Understood! Prince, you can't deploy healers, or anyone whose role is to 
 Anna: "Let's fight with either ranged attacks so we don't have fight from the front, or fight while retreating and replacing our front line."
 ```
 
-####60/5 Earth Fountain Extreme (Gimmick: No Healers):
+**60/5 Earth Fountain Extreme (Gimmick: No Healers):**  
 Gold Fairy (60%x2), Platinum Fairy (30%), Black Fairy (15%), Rainbow Fairy (3%)
-######Fairies (30 Stamina):
 ```
+Fairies (30 Stamina):
 Trips: 6
 Gold Fairies: 7.2
 Platinum Fairies: 1.8
 Black Fairies: 0.9
 Rainbow Fairies: 0.18
 ```
-######Story:
 ```
 (beginning)
 Anna: "There's a fresh batch of enemy troops. The power of our healers is still being obstructed. Please be careful."
 ```
 
-####50/3 Dark Tomb (Gimmick: Deployment cost won't regenerate):
+**50/3 Dark Tomb (Gimmick: Deployment cost won't regenerate):**  
 Daniella (10%), Lean (10%), Bouquet (40%x3)
-######Story:
 ```
 
 (beginning)
@@ -97,12 +90,11 @@ Aegis: "It will sap away your will to fight, and your will to live."
 Anna: "Prince! It seems as if our sortie cost won't recover as time passes here. Please choose who you deploy with care."
 ```
 
-####60/5 Dark Tomb Extreme (Gimmick: Deployment cost won't regenerate):
+**60/5 Dark Tomb Extreme (Gimmick: Deployment cost won't regenerate):**  
 Ruby (60%), Crystal (100%), Diamond (50%), Magic Crystal II (20%x2)
 
-####50/3 Strong Oni Invasion (Gimmick: Monster Movement Increased):
+**50/3 Strong Oni Invasion (Gimmick: Monster Movement Increased):**  
 Metal (EXP) Bucket (5), Elaine (10),Als (50), Wilfred (50)
-######Story:
 ```
 
 (beginning)
@@ -111,39 +103,31 @@ Aegis: "Here, the actions of the monsters have been invigorated. The enemy's mov
 Sorano: "Wah, they're already here! Do something quick!"
 ```
 
-####60/5 Strong Oni Invasion Extreme (Gimmick: Monster Movement Increased):
+**60/5 Strong Oni Invasion Extreme (Gimmick: Monster Movement Increased):**  
 Wine (100), Brandy (50), Millennium Wine (20), Magic Crystal II (60x2)
-#######Story:
 ```
-
 (beginning)
 Anna: "The monsters' movements have become even quicker. Prince, please be careful. You must be on your toes."
 ```
 
-####50/3 Crossroads of Fate (Gimmick: Monster Defence Strengthened):
+**50/3 Crossroads of Fate (Gimmick: Monster Defence Strengthened):**  
 Metal (EXP) Bucket (5), Gold Bucket (60x3)
-######Story:
 ```
-
 (beginning)
 Sorano: "Whew...... we've gotten pretty deep, haven't we? Somehow, the air feels foreboding. Well, it might just be my imagination, though......"
 Aegis: "It's not your imagination. Due to the thick miasma, the monsters' guard has been strengthened. Their physical defence has been raised, so be careful."
 ```
 
-####60/5 Crossroads of Fate Extreme (Gimmick: Monster Defence Strengthened):
+**60/5 Crossroads of Fate Extreme (Gimmick: Monster Defence Strengthened):**  
 Metal (EXP) Bucket (10), Gold Bucket (60x4)
-#######Story:
 ```
-
 (beginning)
 Anna: "In this place, the monsters' physical defences have been raised, so caution is necessary.
 ```
 
-####50/3 Fire Beast (Gimmick: Gradual HP Damage [small]):
+**50/3 Fire Beast (Gimmick: Gradual HP Damage [small]):**  
 Harissa (10), Funes (10), Metal (EXP) Bucket (5)
-######Story:
 ```
-
 (beginning)
 Sorano: "Finally! We're here!"
 Anna: "Such an intense heat. Is the summoned beast in here?"
@@ -158,11 +142,9 @@ Anna: "Prince, this severe heat will drain the strength of our soldiers. Please 
 Sorano: "Yay! Thanks to this, I'm now independent! Well, the summoned beast was also safely obtained. As I promised, I'll lend my power to you guys."
 ```
 
-####60/5 Fire Beast Extreme (Gimmick: Gradual HP Damage [large]):
+**60/5 Fire Beast Extreme (Gimmick: Gradual HP Damage [large]):**  
 Magic Crystal III (100), Millennium Wine (20), Diamond (20)
-######Story:
 ```
-
 (beginning)
 Sorano: "The flame's strength is intensifying......? Not good, we should get out of here. We'll be in trouble if we stick around."
 (end)
