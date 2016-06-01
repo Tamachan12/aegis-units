@@ -18,7 +18,7 @@ Sorano: "So, please! If you can find me a summoned beast, I'll join your party!"
 ```
 
 **20/1 Summoner:**  
-Beer (40%), Wine (20%)  
+Beer (40%), Wine (20%)
 ```
 (beginning)
 Sorano: "Geez, what is this place!? It's so murky, and......"
@@ -82,7 +82,6 @@ Anna: "There's a fresh batch of enemy troops. The power of our healers is still 
 **50/3 Dark Tomb (Gimmick: Deployment cost won't regenerate):**  
 Daniella (10%), Lean (10%), Bouquet (40%x3)
 ```
-
 (beginning)
 Anna: "Are these...... graves? Quiet, isn't it. Almost as if time stopped......"
 Aegis: "Please be careful. That silence is the silence of the netherworld that gnaws at the living."
@@ -96,7 +95,6 @@ Ruby (60%), Crystal (100%), Diamond (50%), Magic Crystal II (20%x2)
 **50/3 Strong Oni Invasion (Gimmick: Monster Movement Increased):**  
 Metal (EXP) Bucket (5), Elaine (10),Als (50), Wilfred (50)
 ```
-
 (beginning)
 Anna: "The monsters have started to approach. According to the report, the pace of their march seems to be faster than usual."
 Aegis: "Here, the actions of the monsters have been invigorated. The enemy's movement speed has also become faster."
