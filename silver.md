@@ -1,3 +1,8 @@
+##Silver Units Ability Information:
+(obtained at level 55)  
+[back to top](README.md)  
+
+
 ####Soldier Chief (ソルジャーチーフ):
 ```
 Crave (クレイブ): attacks all nearby land enemies within range
