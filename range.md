@@ -677,3 +677,4 @@ Spirit Snipe (スピリットスナイプ): (30s; attack 1.9x range 1.4x [294]; 
 ```
 Strengthen Range II (射程強化II): (25s; range 1.7x [357]; AS: 107; WT: 20; CT: 30) 
 Final Trump Card (最後の切り札): (0s; range 1.8x [378]; all enemies within range receive 7x damage; self: current HP-90%; AS: 181; WT: 60; CT: 90)
+```
