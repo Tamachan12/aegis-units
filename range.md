@@ -8,7 +8,6 @@ Hell Necromancer; High Enchanter; King of Pirates; Master Alchemist;
 Master Druid; Master Ranger; Onmyou no Kami; Saint; Shaman Lord; Staff Tactician; 
 Summon Master; Super Dancer; Treasure Hunter; Undead Killer;
 
-
 ####☆Arch Chrono Witch (アーククロノウィッチ)
 #####Towa (トワ):
 ```
@@ -47,6 +46,7 @@ Inferno (インフェルノ): (25s; attack 1.5x; AoE blast 2.5x; AS: 192; WT: 27
 ```
 Extend Range II (射程強化II): (25s; range 1.7x [408]; AS: 174; WT: 20; CT: 30)
 Magic☆Shooter (マジック☆シューター): (25s; range 1.7x [408]; AoE blast halved, but wait period after attack shortened [from 2s to 0.5s]; AS: 84; WT: 23.3; CT: 35)
+Quick Chant (高速詠唱): shortens time until an attack.
 ```
 
 #####Mordrebete (モルディベート):
@@ -99,12 +99,15 @@ Cocytus (コキュートス): (30s; range decreased by 25%; attack 1.7x; ; AoE a
 ```
 Freeze Spell (氷結呪縛): (20s; attack 1.6x; slow movement effect increased; AS: 116; WT: 17.5; CT: 35)
 True Freeze Spell (真・氷結呪縛): (20s; attack 1.7x; slow movement effect raised; AS: 116; WT: 20; CT: 40)
+Cold Acclimation (寒冷適応): immune to blizzard weather effect.
+Cold Acclimation [Attack Power] (寒冷適応(攻撃力)): immune to blizzards; attack +10% (additional +10% during a blizzard).
 ```
 
 #####Figneria (フィグネリア):
 ```
 Strengthen Attack IV (攻撃力強化IV): (45s; attack 1.9x; AS: 105; WT: 12.5; CT: 25) 
 Lunatic Thorn (ルナティックソーン): (20s; attack 1.3x; attacks 3 enemies within range; skill automatic; AS: 105; WT: 10; CT: 20)
+Quick Chant (高速詠唱): shortens time until an attack.
 ```
 
 #####Prim (プリム):
@@ -149,13 +152,15 @@ Full Auto (フルオート): (18s; attack 0.9x; raises attack speed but arrow sp
 ```
 Quadra Shot (クアドラショット): (15s; fires 4 consecutive arrows per shot; AS: 69; WT: 1; CT: 35) 
 Quintuple Shot (クインタプルショット): (15s; fires 5 consecutive arrows per shot; can't be nullified; AS: 62; WT: 5; CT: 40)
+Range Up I (射程アップI): range+15.
+Range Up II (射程アップII): range+30.
 ```
 
 #####Oscar (オスカー):
 ```
 Quick Shot II (クイックショットII): (30s; attack 1.7x; attack speed quicker; AS: 42; WT: 20; CT: 40) 
 Fast Shot (ファストショット): (30s; attack 1.9x; shortens intervals between attacks; skill changes to [クイックショットII]; AS: 42; WT: 17.5; CT: 35)
-Defence and Magic Resist Up [Men] (防御力魔法耐性アップ【男】): male unit (and token) defence +5% and magic resist +5 if a team member.
+Defence and Magic Resist Up [Men] (防御力魔法耐性アップ【男】): male unit (not including token) defence +5% and magic resist +5 if a team member.
 ```
 
 #####Rita (リタ):
@@ -208,6 +213,8 @@ High Quick Spell (ハイクイックスペル): (30s; attack 1.6x; range 1.3x [2
 ```
 Big Cannon (ビッグキャノン): (80s; attack and range 1.4x [504]; AoE blast 1.2x; AS: 194; WT: 1; CT: 75)
 Dark Supergravity Shell (暗黒超重力弾): (40s; intervals between attacks increased; attack 1.8x; true damage; slows movement; AS: 218; WT: 5; CT: 55)
+Range Up I (射程アップI): range+15.
+Heavy Barrel (ヘビーバレル): cost+4; attack+15%; range+40.
 ```
 
 #####Janna (ジャンナ):
@@ -219,7 +226,8 @@ Rocket Parade (ロケットパレード): (35s; AoE 2.5x; 'Twin Bazooka' chance 
 #####Kanon (カノン):
 ```
 Training Cannonball (訓練用砲弾): (20s; attack 0.9x; intervals between attacks shortened; attacked foes' movement speed lowered; AS: 146; WT: 25; CT: 50) 
-Heavy Cannonball (重砲弾): (0s; charge-up until attack lengthened, but attack 3x and AoE 3x; AS: 301; WT: 15; CT: 30)
+Heavy Cannonball (重砲弾): (5s; charge-up until attack lengthened, but attack 3x and AoE 3x; AS: 301; WT: 15; CT: 30)
+Carronade (カロネード砲): range -20, but attack 1.2x.
 ```
 
 #####Mel (メル):
@@ -267,6 +275,7 @@ Double Incantation (二重詠唱): (80s; attack 0.8x; heals 1 ally and attacks e
 Heal Magic (ヒールマジック): (s10; attack 1.3x; recover allies' HP; AS: 192; WT: 12.5; CT: 25) 
 Change Attack (チェンジアタック): (s10; attack 1.4x; focuses on recovery until 'Change Heal' used; AS: 192; WT: 10; CT: 20)
 Change Heal (チェンジヒール): (s10; attack 1.4x; focuses on attack until 'Change Attack' used; AS: 192; WT: N/A; CT: 20)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Noel (ノエル):
@@ -307,6 +316,7 @@ Refreshing Healing Wind (涼やかな癒しの風): (20s; attack 1.6x; instant: 
 ```
 Area Heal (エリアヒール): (25s; attack 1.6x; range 1.3x [305]; heals all units within range; AS: 167; WT: 12.5; CT: 25)
 Area Heal Plus (エリアヒールプラス): (35s; attack 2x; range 1.5x [352]; heals all units within range; skill changes to 'Area Heal' afterwards; AS: 167; WT: 12.5; CT: 25)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Mia (ミア):
@@ -332,6 +342,7 @@ Kokuei's Karma (刻詠の宿業): (00s; range 1.8x [396]; ally units within rang
 ```
 Monstrous Wolf's Roar (魔狼の咆哮): (25s; attack of all enemies within range -15%; AS: 164; WT: 36; CT: 60)
 Gaogao Combo (がおがおコンボ): (30s; attack of all enemies within range -15%; attacks one enemy and heals one ally simultaneously; AS: 164; WT: 54; CT: 90)
+Health Up (体力アップ): Max HP increased.
 ```
 
 ####☆Great Curse User (大呪術師長)
@@ -339,18 +350,21 @@ Gaogao Combo (がおがおコンボ): (30s; attack of all enemies within range -
 ```
 Curse Voice (カースボイス): (20s; class perk effects 2x [20% attack down -10% HP instant death]; AS: 206; WT: 27.5; CT: 55)
 Curse Song (カースソング): (25s; focus defence; class perk effects 2.5x; AS: 206; WT: 30; CT: 60)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Mitra (ミトラ):
 ```
 Curse Voice (カースボイス): (20s; class perk effects 2x [20% attack down -10% HP instant death]; AS: 206; WT: 36.7; CT: 55)
-Secret Curse: Destruction and Vitality (秘呪・破術増命): (30s; Max HP, MR, and class perk effects 2x; AS: 206; WT: 46; CT: 70) 
+Secret Curse: Destruction and Vitality (秘呪・破術増命): (30s; Max HP, MR, and class perk effects 2x; AS: 206; WT: 46; CT: 70)
+Health Up (体力アップ): Max HP increased.
 ```
 
 #####Revy (レヴィ):
 ```
 Curse Voice (カースボイス): (20s; class perk effects 2x [20% attack down -10% HP instant death]; AS: 185; WT: 27.5; CT: 55)
 Curse of Death (カースオブデス): (25s; attack 1.5x; class perk effects 2x; AS: 185; WT: 32; CT: 65)
+Attack Speed Up (攻撃速度アップ): slightly shortens intervals between attacks.
 ```
 
 ####☆Hell Necromancer (ヘルネクロマンサー)
@@ -396,6 +410,7 @@ Sea God Gun Tríaina (海神銃トリアイナ): (20s; attack 1.5x; attacks 3 ta
 ```
 Barrage Shot (バラージショット): (20s; decreases range [155]; attack 1.7x; attack speed quicker; AS: 62; WT: 17.5; CT: 35) 
 Million Shot (ミリオンショット): (30s; decreases range [155]; attack 2.3x attack speed quicker; AS: 62; WT: 7.5; CT: None)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
 ```
 
 #####Maurette (モーレット):
@@ -421,6 +436,7 @@ Gatling Fire (ガトリングファイア): (15s; attack halved; rapid-fire atta
 ```
 Quick Shot II (クイックショットII): (30s; attack 1.7x; attack speed quicker; AS: 62; WT: 20; CT: 40) 
 Rifled Musket (ライフルドマスケット): (90s; attack 1.8x; range 1.3x [455]; attack speed quicker; AS: 76; WT: 32.5; CT: 65)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Sabrina (サブリナ):
@@ -439,7 +455,8 @@ Secret Art of Property Conversion (性質変換の秘術): (25s; focus defence; 
 #####Corinne (コリン):
 ```
 AoE Attack II (範囲攻撃II): (25s; attack AoE 2x; AS: 142; WT: 25; CT: 50)
-Force Sword (理力の剣): (25s; AoE changed to single target; attack 2.3x; AS: 142; WT: 22; CT: 45)
+Force Sword (理力の剣): (25s; AoE changed to single target; attack 2x; AS: 142; WT: 22; CT: 45)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Machina (マキナ):
@@ -470,6 +487,13 @@ God Tree's Lightning (神樹の稲妻): (2s; attack and range 1.6x; true damage 
 ```
 
 ####☆Master Ranger (マスターレンジャー)
+#####Aida (アイーダ):
+```
+Spirit Eagle (スピリットイーグル): (30s; attack 1.9x; slows enemy movement speed; AS: 62; WT: 17.5; CT: 35)
+Demonic Fly's Blessing (魔蝿の祝福): (20s; attack of all enemies within range -20%; AS: 62; WT: 30; CT: 60)
+Trap Power Up (罠威力上昇): while deployed, ranger token attack +10%.
+```
+
 #####Fuuka (フウカ):
 ```
 Double Shot (ダブルショット): (15s; fires 2-consecutive arrows per shot; AS: 62; WT: 20; CT: 30) 
@@ -514,6 +538,7 @@ Double Heal (ダブルヒール): (30s; range 1.7x [442]; heals 2 allies within 
 Evil Force (イービルフォース): (25s; attack 1.7x; attacks with magic; AS: 164; WT: 17.5; CT: 35)
 Darkness Soul (ダークネスソウル): (10s; attack 1.8x; attacks with magic; skill changes; AS: 164; WT: 17.5; CT: 35)
 Brightness Soul (ブライトネスソウル): (10s; attack 1.8x; heals with magic; skill changes; AS: 164; WT: N/A; CT: 35)
+Healer Attack Up (ヒーラーの攻撃力アップ): healer attack +7% if a team member.
 ```
 
 #####Iris (イーリス):
@@ -544,12 +569,14 @@ Furious Blow (憤怒の一撃): (20s; attack 4.5x; physical ranged [260] attack 
 ```
 Quick Heal (クイックヒール): (25s; shortens intervals between heals; AS: 84; WT: 15; CT: 30)
 Quick Area Heal (クイックエリアヒール): (25s; recover all allies within range, and shorten intervals between heals; AS: 104; WT: 17.5; CT: 35)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Sedis (シーディス):
 ```
 Star Wand (星の杖): (95s; attack 1.4x; range 1.2x [312]; AS: 164; WT: 47.5; CT: 95)
 Fixed Star Wand (恒星の杖): (120s; attack 1.6x; range 1.3x [338]; AS: 164; WT: 60; CT: 120)
+Magic Resistance (魔法耐性): +10% magic resistance.
 ```
 
 ####☆Shaman Lord (シャーマンロード)
@@ -571,7 +598,8 @@ True Kamioroshi Release (真・神降ろし解除): (20s; attack 1.6x; focuses o
 ```
 Healing Prayer (癒しの祈り): (15s; attack 1.8x; focus healing; AS: 119; WT: 10; CT: 20)
 Chirei Oroshi (地霊降ろし): (10s; attack 1.4x; focus on recovery until next skill activation; AS: 119; WT: 7.5; CT: 15)
-Chirei Oroshi Release (地霊降ろし解除): (10s; attack 1.4x; focus on attack until next skill activation; AS: 119; WT: 0; CT: 15) 
+Chirei Oroshi Release (地霊降ろし解除): (10s; attack 1.4x; focus on attack until next skill activation; AS: 119; WT: 0; CT: 15)
+Quick Chant (高速詠唱): shortens time until an attack.
 ```
 
 ####☆Staff Tactician (参謀軍師)
@@ -583,7 +611,7 @@ Super Meteor Strike Tactic (超天落岩の計): (15s; attack 3.0x; range 3.0x [
 
 #####Leona (レオナ):
 ```
-Bagua Formation (八卦の陣): (10s; all ally 75% attack nullification; skill expires: all ally HP recovery; AS: 62; WT: 27.5; CT: 55)
+Bagua Formation (八卦の陣): (10s; all ally 75% attack nullification; instant: all ally HP recovery; AS: 62; WT: 27.5; CT: 55)
 Bagua Formation Gates of Death (八卦の陣・死門): (10s; all ally 75% attack nullification; self: attack speed quickened; AS: 25; WT: 32.5; CT: 65)
 ```
 
@@ -611,6 +639,7 @@ Salamander Eternal Summon (サラマンダー永続召喚): (00s; can summon sal
 ```
 Efreet (イフリート): (30s; can attack with Efreet; AS: 165; WT: 10; CT: 20)
 True Efreet (真・イフリート): (25s; can attack with Efreet; true damage; AS: 165; WT: 10; CT: 20)
+Quick Chant (高速詠唱): shortens time until an attack.
 ```
 
 ####☆Super Dancer (スーパーダンサー)
@@ -651,7 +680,8 @@ Early Summer Rain (五月雨縫い): (20s; range 1.3x [221]; attacks up to 3 ene
 #####Elizabeth (エリザベート):
 ```
 Quick Shot II (クイックショットII): (30s; attack 1.7x; attack speed quicker; AS: 57; WT: 20; CT: 40) 
-Fast Shot (ファーストショット): (30s; attack 1.9x; attack speed quicker; skill changed to 'Quick Shot II' afterwards; AS: 57; WT: 17; CT: 35) 
+Fast Shot (ファーストショット): (30s; attack 1.9x; attack speed quicker; skill changed to 'Quick Shot II' afterwards; AS: 57; WT: 17; CT: 35)
+Range Up I (射程アップI): range+15.
 ```
 
 #####Flan (フラン):
@@ -677,4 +707,5 @@ Spirit Snipe (スピリットスナイプ): (30s; attack 1.9x range 1.4x [294]; 
 ```
 Strengthen Range II (射程強化II): (25s; range 1.7x [357]; AS: 107; WT: 20; CT: 30) 
 Final Trump Card (最後の切り札): (0s; range 1.8x [378]; all enemies within range receive 7x damage; self: current HP-90%; AS: 181; WT: 60; CT: 90)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
 ```
