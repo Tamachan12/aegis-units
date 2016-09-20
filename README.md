@@ -6,3 +6,7 @@ https://www.patreon.com/anya
 [silver](silver.md)
 
 ![petite](http://i20.photobucket.com/albums/b209/Mraur/AEGIS/Anya_zpss3ysvml3.jpg)
+
+source:
+http://pastebin.com/raw/DVpAqdbV
+http://pastebin.com/raw/idLLQMyB
