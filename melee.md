@@ -11,6 +11,7 @@ Sacred Fist; Sailor Elite Shogun; Soldier Elite; Super Electric Machinist; Super
 ```
 Tightly Strung Bow (剛弦の弓): (25s; attack 1.6x; range 1.3x [338]; AS: 62; WT: 12; CT: 25)
 Tightly Strung Strong Bow (剛弦の極弓): (30s; block: 0; time until attack lengthened; attack 2.2x; range 1.4x [364]; nullification immunity; AS: 82; WT: 20; CT: 40)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
 ```
 
 #####Katina (カティナ):
@@ -72,6 +73,13 @@ Flash Spear Chain Attack (閃槍連撃): (35s; attack speed up; AS: 29; WT: 1; C
 Godly Speed Light Spear (神速極光槍): (20s; attack speed up; defeated enemy cost recovery 2x; self HP regeneration [?? per 0.5s]; AS: 29; WT: 5; CT: 25)
 ```
 
+#####Meiling (メイリン):
+```
+Summon Tiger Power (虎力招来): (90s; HP 1.3x; attack 1.3x; AS: 60; WT: 50; CT: 100)
+Yaohu Cannon (妖虎砲): (30s; ranged [200] magic attack; cost recovery per kill 2x; AS: 60; WT: 25; CT: 50)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
+```
+
 #####Thetis (テティス):
 ```
 Strengthen Attack IV (攻撃力強化IV): (45s; attack 1.9x; AS: 60; WT: 12.5; CT: 25) 
@@ -121,12 +129,14 @@ Ninpou Wild Shuriken (忍法乱れ手裏剣): (25s; range 1.3x; attack 3 separat
 ```
 Pheonix's Protection (不死鳥の護り): (60s; while skill is active, automatically recovers half health if HP drops to 0 [once per skill]; AS: 92; WT:  56.7; CT: 85)
 Pheonix Blow (不死鳥の一撃): (60s; while skill is active, ability chance 1.5x, and automatically recovers half health if HP drops to 0 [once per skill]; AS: 92; WT: 63.3; CT: 95)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 #####Ristis (リスティス):
 ```
 Bite Off (食い千切り): (30s; current HP halved when skill activates; delivers range [250] attacks; AS: 73; WT: 25; CT: 50)
 Great Gluttony (大暴食): (20s; current HP halved when skill activates; delivers ranged attacks against up to 3 enemies; ; AS: 73; WT: 22.5; CT: 45)
+Health Up (体力アップ): Max HP increased.
 ```
 
 #####Roana (ロアナ):
@@ -165,7 +175,8 @@ True Hell Axe Fasces (真・冥斧ファスケス): (45s; attack and defence 2.3
 #####Leaf (リーフ):
 ```
 Strengthen Health II (体力強化II): (35s; Max HP 1.6x; AS: 83; WT: 23.3; CT: 35) 
-Bandit Girl's Latent Power (山賊娘の底力): (40s; HP and attack 1.5x; AS: 83; WT: 33.3; CT: 50) 
+Bandit Girl's Latent Power (山賊娘の底力): (40s; HP and attack 1.5x; AS: 83; WT: 33.3; CT: 50)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 #####Lyra (ライラ):
@@ -177,7 +188,8 @@ Full Swing (フルスイング): (20s; attack 2.7x; self: defence 0; attacks all
 #####Rorone (ロロネ):
 ```
 Abandon III (捨て身III): (10s; Self: DF 0, but attack 2.6x; AS: 83; WT: 12.5; CT: 25)
-Step Drive (ステップドライブ): (10s; attack 2.5x; self: defence 0; physical attack evasion +50% [75%]; AS: 83; WT: 15; CT: 30)
+Step Drive (ステップドライブ): (10s; attack 2.5x; self: defence 0; physical attack evasion 50% [75%]; AS: 83; WT: 15; CT: 30)
+Physical Attack Evasion (物理攻撃回避): 25% physical evasion.
 ```
 
 #####Seria (セリア):
@@ -222,6 +234,7 @@ Healing Angel (癒しの天使): (25s; block: 3; attack #: 2; instant: heals all
 ```
 Release God and Demon Seal (神魔封印解除): (30s; block: 3; attack #: 2; AS: 62; WT: 7.5; CT: 15) 
 Cruel Angel (残虐な天使): (25s; block and attack #: 3; shortens intervals between attacks; AS: 35; WT: 12.5; CT: 25)
+Whimsical Guardian Angel (気まぐれ守護天使): 7% chance for damage nullification to all allies while Chloe's skill is inactive.
 ```
 
 #####Miruno (ミルノ):
@@ -247,6 +260,7 @@ Release Holy Angel Seal (聖天使封印解除): (30s; attack, defence, and magi
 ```
 Heat Breath (ヒートブレス): (35s; attack 1.5x; magical ranged [200] attack; AS: 94; WT: 40; CT: 60)
 Explode Breath (エクスプロードブレス): (2s; attack 1.6x; magical fireball attack that engulfs a wide AoE; AS: 121; WT: 26; CT: 40)
+Health Up (体力アップ): Max HP increased.
 ```
 
 #####Erenia (エレニア):
@@ -259,6 +273,7 @@ Dragon Thunder (ドラゴンサンダー): (20s; attack 2x; magical range widene
 ```
 Fire Breath (ファイアブレス): (20s; attack 1.7x; magical ranged [200] attack; AS: 94; WT: 17.5; CT: 35)
 Dragon Aura (ドラゴンオーラ): (20s; attack and defence 1.5x; ranged magical attack; AS: 94; WT: 17; CT: 35)
+Magic Resistance (魔法耐性): +10% magic resistance.
 ```
 
 #####Nadia (ナディア):
@@ -291,12 +306,14 @@ Earthquake Attack (大震撃): (30s; attack 3x; defence 2x; attacks all nearby l
 ```
 Strengthen Attack III (攻撃力強化III): (35s; attack 1.8x; AS: 62; WT: 16.7; CT: 25) 
 Beat-Up (滅多打ち): (20s; attack 1.8x; attack speed raised; AS: 36; WT: 20; CT: 30)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 #####Jelius (ジェリウス):
 ```
 Strengthen Defence IV (防御力強化IV): (45s; 2.0x defence; AS: 62; WT: 12.5; CT: 25) 
 Full Guard (フルガード): (30s; defence and magic resistance 3.0x; block: 5; focus defence; AS: 0; WT: 7.5; CT: 15)
+Magic Resistance (魔法耐性): +10% magic resistance.
 ```
 
 #####Maribelle (マリーベル):
@@ -310,6 +327,7 @@ Miraculous Shield (奇跡の盾): 15% damage nullification.
 ```
 Sledge Hammer (スレッジハンマー): (25s; 4.0x attack; attack speed slow; AS: 144; WT: 25; CT: 50) 
 Jet Hammer (ジェットハンマー): (20s; 5.5x attack; attack speed slow; self-paralysis after skill ends; AS: 144; WT: 25; CT: 50)
+Heavy Armour Attack Up (ヘビーアーマーの攻撃力アップ): heavy armour attack +7% if Miranda is a team member.
 ```
 
 ####☆Great Monkey Sage (大仙猿)
@@ -356,6 +374,8 @@ Lightning Hammer (ライトニングハンマー): (25s; attack 2.4x; Max HP 1.7
 ```
 Fire-tipped Spear (火尖槍): (15s; block: 1 melee attack; attack & defence 2x; true damage; AS: 74; WT: 1; CT: 45) 
 Fire-tipped Spear Fireball (火尖槍・焔玉): (15s; block: 1 ranged [200] attack; attack and defence 2x; true damage; AS: 74; WT: 5; CT: 50)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
+Daluoxian (大羅仙): 50% chance to follow up an attack with another one.
 ```
 
 ####☆High Princess (ハイプリンセス)
@@ -440,6 +460,7 @@ Moment of the Gods' and Devils' Curse (神魔調伏の一刻): (15s; attack 3x; 
 ```
 Cursed Bloodline (呪われた血脈): (30s; AT/HP/DF 1.5x; AS: 43; WT: 35; CT: 70)
 Cursed Blood Awakening (呪血の目覚め): (35s; AT/HP/DF 1.5x; instant death attack [10%]; AS: 43; WT: 40; CT: 80)
+Health Up (体力アップ): Max HP increased.
 ```
 
 #####Berna (ベルナ):
@@ -459,7 +480,6 @@ Super Assassination (超暗殺): (15s; 2x attack; instant death attack [30%]; AS
 Assassination II (暗殺II): (20s; 1.7x attack; instant death attack [10%]; AS: 43; WT: 22.5; CT: 45)
 Self-taught Polearm Art 'Heavenly Ring Attack' (我流操槍術・天輪撃): (30s; 2.4x attack; 90% physical evasion; AS: 43; WT: 20; CT: 40)
 ```
-
 #####Kyuteri (キュテリ):
 ```
 Recovery III (回復III): (2s; self: recovers 55% max HP; AS: 43; WT: 13.3; CT: 20)
@@ -477,6 +497,8 @@ Assassin Dagger (凶刃): (20s; attack 1.8x; assassination [10%]; skill automati
 ```
 True Dark Aura (真・暗黒オーラ): (15s; all enemy attack decreased by 30%; AS: 62; WT: 1; CT: 85) 
 Holy Knight's Protection (聖騎士の守護): (55s; defence and magic resistance 2.5x; 20% attack nullification for allies and self; AS: 62; WT: 5; CT: 70)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
+Holy Enchant (ホーリーエンチャント): 20% chance for 1.8x attack (100% against demons and undead).
 ```
 
 #####Dark Knight (暗黒騎士):
@@ -511,18 +533,21 @@ Icarus Wing (イカロスウィング): (35s; attack 1.3x*; flight; attacks all 
 *2nd: 1.2x; 3rd: 1.1x
 Daedalus Wing (ダイダロスウィング ): (40s; attack 1.4x; flight; attacks all nearby targets; skill changed to 'Wing Charge' afterwards [flight loss]; AS: 62; WT: 10; CT: 20)
 Wing Charge (ウィングチャージ): (10s; attack 0.8x; defence 1.4x; skill changed to 'Daedalus Wing' afterwards; AS: ; WT: 0; CT: 20)
+Pegasus Rider Attack Up (ペガサスライダー攻撃力アップ): pegasus rider attack +7% if a team member.
 ```
 
 #####Ridy (リディ):
 ```
 Pegasus Wing (ペガサスウイング): (45s; flight; attacks all nearby targets; AS: 62; WT: 15; CT: 25)
 Whirlwind (ワールウィンド): (45s; flight; range widened [180]; range AoE attack that slows enemies; AS: 62; WT: 17; CT: 30)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 #####Stella (ステラ):
 ```
 Little Wing (リトルウィング): (10s; flight; attacks all nearby targets; AS: 62; WT: 6.7; CT: 10)
 Quick Wing (クイックウィング): (12s; flight; attacks all nearby targets; intervals between attacks shortened; AS: 33; WT: 10; CT: 15)
+Health Up (体力アップ): Max HP increased.
 ```
 
 ####☆Royal Order (ロイヤルオーダー)
@@ -550,6 +575,7 @@ Exes Sword (エグゼスソード): (25s; attack 2.0x; magic attack; AS: 63; WT:
 ```
 Magic Sword (魔法剣): (20s; 1.5x attack; magical attack; AS: 63; WT: 15; CT: 30) 
 Magic Sword Rampage (魔法剣・暴走): (20s; attack 1.7x; magic attack; skill activates on its own; AS: 63; WT: 10; CT: 20)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
 ```
 
 #####Hores (ホルエス):
@@ -570,6 +596,13 @@ Excellent Sword (エクセレントソード): (90s; attack and range 1.3x [260]
 Piercing Sword (ピアッシングソード): (80s; attack 1.7x; range 1.4x [280]; true damage; AS: 63; WT: 57.5; CT: 115)
 ```
 
+#####Sienna (シエナ):
+```
+Blood Magic (ブラッドマジック): (15s; self: current HP halved; attack 2x; range 1.3x; magic attack; AS: 63; WT: 12.5; CT: 25)
+Forbidden Art 'Magic Blade of Fresh Blood' (禁術 鮮血の魔刃): (00s; Max HP halved forever; attack 1.9x; range 1.3x; unlimited duration; magic attack; AS: 63; WT: 30; CT: 60)
+Magical Warrior's Oath (魔戦士の誓い): magic fencer and mage armour class cost -1 if a team member; while deployed, mentioned classes auto retreat when defeated.
+```
+
 ####☆Sacred Fist (拳聖)
 #####Alice (アリス):
 ```
@@ -586,8 +619,9 @@ Pump-Up (パンプアップ): (60s; 3.0x HP; 1.5x attack; AS: 53; WT:  56.7; CT:
 
 #####Ling (リン):
 ```
-Qigong Jutsu (気功術): (20s; attack and defence 1.5x; AS: 53; WT: 17.5; CT: 35) 
+Qigong Jutsu (気功術): (20s; attack and defence 1.5x; AS: 58; WT: 17.5; CT: 35) 
 Qigong Rasenha (気功螺旋破): (10s; 1.6x attack; attack speed raised; attacks all nearby ground units; AS: 38; WT: 12.5; CT: 25)
+Monk Attack Up (モンクの攻撃力アップ): monk +7% attack if Ling is a team member.
 ```
 
 #####Momo (モモ):
@@ -622,6 +656,7 @@ High Power Shot (ハイパワーショット): (25s; attack 2.2x; block: 0; rang
 ```
 Sword Pistol (ソードピストル): (40s; attack 1.3x; block: 0; range [200] physical [AW: AoE] attack; AS: 75; WT: 12.5; CT: 25)
 Burst Pistol (バーストピストル): (30s; block: 0; 6 consecutive ranged AoE attacks; intervals between attacks lengthened; AS: 129; WT: 15; CT: 30)
+Fire Control (射撃指揮): sailor skill duration +30% if a team member.
 ```
 
 #####Viera (ビエラ):
@@ -697,7 +732,8 @@ Reinforcement Auto (援軍要請･オート): (instant; deployment cost +15; sk
 #####Julian (ユリアン):
 ```
 Reinforcement III (援軍要請III): (instant; deployment cost +15; AS: N/A; WT: 23.3; CT: 35) 
-Reinforcement Auto (援軍要請･オート): (instant; deployment cost +15; skill used automatically; AS: N/A; WT: 23.3; CT: 35) 
+Reinforcement Auto (援軍要請･オート): (instant; deployment cost +15; skill used automatically; AS: N/A; WT: 23.3; CT: 35)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 #####Katie (ケイティ):
@@ -710,6 +746,7 @@ Reinforcement Defensive (援軍要請･防勢): (40s; 1.8x defence; instant: de
 ```
 Reinforcement III (援軍要請III): (instant; deployment cost +15; AS: N/A; WT: 17.5; CT: 35) 
 Reinforcement AT/DF (援軍要請・攻防): (40s; attack and defence 1.5x; instant: deployment cost +15; AS: 58; WT: 15; CT: 30) 
+Shield Boost (シールドブースト): soldier and heavy armour defence +5% and MR+5 if a team member.
 ```
 
 #####Zenobia (ゼノビア):
@@ -734,8 +771,9 @@ Buster Mode (バスターモード): (30s; attack 2x; physical ranged attack; 50
 
 #####Ricca (リッカ):
 ```
-Mode Change (モードチェンジ): (25s; ; block: 0; physical ranged attack [250]; intervals between attacks shortened; AS: 52; WT: 17.5; CT: 35)
-Penetrator Mode (ペネトレータモード): (20s; block: 0; true damage ranged attack; intervals between attacks shortened; AS: 52; WT: 17.5; CT: 35)
+Mode Change (モードチェンジ): (25s; block: 0; physical ranged attack [250]; intervals between attacks shortened; AS: 52; WT: 17.5; CT: 35)
+Penetrator Mode (ペネトレータモード): (20s; block: 0; true damage ranged [250] attack; intervals between attacks shortened; AS: 52; WT: 17.5; CT: 35)
+Certain Kill Blow (必殺の一撃): 20% chance for 1.8x attack.
 ```
 
 ####☆Super Magic Armour General (超魔導鎧将)
@@ -749,6 +787,7 @@ Limiter Cut (リミッターカット): (30s; attack and defence 2.3x; current H
 ```
 Fireball (ファイアボール): (25s; 1.8x attack; range [180]; AS: 102; WT: 17.5; CT: 35) 
 Fire Blitz (ファイアブリッツ): (15s; attack 1.7x; range 1.3x [234]; shot speed increased; AS: 102; WT: 10; CT: 20)
+Pursuit (追撃): 20% chance to follow up an attack with another one.
 ```
 
 #####Palffy (パルフィ):
@@ -761,6 +800,7 @@ Iron Wall Provocation (鉄壁の挑発): (60s; defence 2.2x; magic resistance 2x
 ```
 Fireball (ファイアボール): (25s; 1.8x attack; range [180]; AS: 114; WT: 23.3; CT: 35) 
 Earth Armour (アースアーマー): (40s; defence 1.8x; self: HP regeneration; range [180]; AS: 114; WT: 33.3; CT: 50)
+Health Up (体力アップ): Max HP increased.
 ```
 
 ####☆Tenko (天狐)
@@ -781,6 +821,7 @@ Flame Burst (大炎上): (30s; self: attack and defence 2x; magic attack; attack
 ```
 Youko Awakening (妖狐覚醒): (30s; attack, HP, and defence 2x; AS: 78; WT: 13.2; CT: 22)
 Youko Great Awakening (妖狐大覚醒): (30s; attack, HP, and defence 3x; skill changes to '妖狐覚醒' afterwards; AS: 78; WT: 13.2; CT: 22)
+Health Up (体力アップ): Max HP increased.
 ```
 
 ####☆True Dragon Warrior (真竜戦士)
